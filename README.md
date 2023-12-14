@@ -8,7 +8,7 @@
   
 🌱 &nbsp;&nbsp;Now I am working in Skywater projects.
 
-🤓 &nbsp;&nbsp;Taking the second bimester of the CTD career, studying imperative programming and databases.
+🤓 &nbsp;&nbsp;Taking the Certified Tech Developer career.
 
 🌈 &nbsp;&nbsp;My pronouns are she / her.
 </p>
