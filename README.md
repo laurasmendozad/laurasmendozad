@@ -6,7 +6,7 @@
 <p align="justify">
   As an electronic engineer with more than two years of experience and passion for learning, I have specialized in the development of automata for the collection and review of compliance metrics data using Power Automate and Selenium, performing data in Power Bi dashboard. I also have experience in circuit design using Cadence and lately approaching open source tools such on Skywater 130nm technology. And I'm currently part of the Certified Tech Developer career at Digital House, learning about web development using HTML, CSS, JavaScript and MySQL... for now. I'm going to update regularly my repositories to keep doing the thing that I love the most, learn. If you are interested in any of my projects, contact me!
   
-🌱 &nbsp;&nbsp;Now I am working in Skywater projects.
+🌱 &nbsp;&nbsp;Now I am working in the 100 Days of Code with Python Course
 
 🤓 &nbsp;&nbsp;Taking the Certified Tech Developer career.
 
