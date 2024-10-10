@@ -25,11 +25,9 @@
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NUMPY"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="PANDAS"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="SELENIUM"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" alt="OBSIDIAN"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZURE"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="POWERBI"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="DEBIAN"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="MANJARO"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="UBUNTU"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="WINDOWS"/>&nbsp;&nbsp;
   </p>
